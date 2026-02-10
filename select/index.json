@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "rises the moon",
+  "base_artist": "liana flores",
+  "createdAt": "2026-02-10T09:38:18.673552Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "rises the moon",
+      "artist": "Liana Flores",
+      "has_synced": true,
+      "path": "select/01_rises_the_moon_Liana_Flores.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "rises the moon",
+      "artist": "Liana Flores",
+      "has_synced": true,
+      "path": "select/02_rises_the_moon_Liana_Flores.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rises The Moon",
+      "artist": "Derker Bluer",
+      "has_synced": true,
+      "path": "select/03_Rises_The_Moon_Derker_Bluer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rises the Moon",
+      "artist": "Egg",
+      "has_synced": true,
+      "path": "select/04_Rises_the_Moon_Egg.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Liana Flores - rises the moon",
+      "artist": "TheBestPop",
+      "has_synced": true,
+      "path": "select/05_Liana_Flores_-_rises_the_moon_TheBestPop.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "rises the moon",
+      "artist": "Liana Flores",
+      "has_synced": true,
+      "path": "select/06_rises_the_moon_Liana_Flores.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "rises the moon",
+      "artist": "maruwhat",
+      "has_synced": true,
+      "path": "select/07_rises_the_moon_maruwhat.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "liana flores - rises the moon (official music video)",
+      "artist": "liana flores",
+      "has_synced": true,
+      "path": "select/08_liana_flores_-_rises_the_moon_(official_music_video)_liana_flores.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "rises the moon",
+      "artist": "Liana Flores",
+      "has_synced": true,
+      "path": "select/09_rises_the_moon_Liana_Flores.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Liana flores - rises the moon [speed up]",
+      "artist": "mxsics",
+      "has_synced": true,
+      "path": "select/10_Liana_flores_-_rises_the_moon_[speed_up]_mxsics.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "rises the moon",
+      "artist": "Hollie Allen",
+      "has_synced": false,
+      "path": "select/11_rises_the_moon_Hollie_Allen.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Up She Rises (The Captain, Emily & Inmates)",
+      "artist": "Emilie Autumn",
+      "has_synced": true,
+      "path": "select/12_Up_She_Rises_(The_Captain,_Emily_&_Inmates)_Emilie_Autumn.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "rises the moon",
+      "artist": "Liana Flores",
+      "has_synced": false,
+      "path": "select/pl_01_rises_the_moon_Liana_Flores.txt"
+    }
+  ]
+}
